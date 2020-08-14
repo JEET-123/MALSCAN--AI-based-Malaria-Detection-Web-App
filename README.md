@@ -1,1 +1,1 @@
-# AI-based-Malaria-Detection-Web-App
+# MALSCAN--AI-based-Malaria-Detection-Web-App
